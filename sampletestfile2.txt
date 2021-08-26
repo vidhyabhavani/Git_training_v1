@@ -1,1 +1,3 @@
+git revert commit1
+
 This is sample feile2
